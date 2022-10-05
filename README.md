@@ -1,3 +1,2 @@
-# fizz-buzz-demo
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-grxdbh)
+# tic-tac-toe-v2
+ tic tac toe angular game
